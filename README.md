@@ -5,5 +5,5 @@
 
 Use this repository in accordance with the tutorial. (Fork, clone, change, commit, push.)
 
-
+<!-- trigger sonar -->
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=syaanmerchant_2aa4-2026-tutorial-1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=syaanmerchant_2aa4-2026-tutorial-1)
